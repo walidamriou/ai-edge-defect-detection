@@ -1,3 +1,11 @@
+# -------------------------------------------------------------------
+# Script: create.py
+# Description: This script prepares a dataset for YOLOv8 classification 
+#              by splitting it into training and validation folders.
+# Author: Walid A.
+# Date: 06/11/2025
+# Usage: python3 ./create.py
+# -------------------------------------------------------------------
 import os
 import shutil
 import random
